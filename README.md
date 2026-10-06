@@ -1,4 +1,4 @@
-# SOLAR-CHARGER-FOR-MOBILE-PHONES
+# SOLAR CHARGER FOR MOBILE PHONES
 ## Overview
 This project is a Solar Charger designed to convert solar energy into electrical power for charging portable electronic devices, specifically mobile phones. It utilizes a solar panel array to step down and regulate the voltage to a stable 5V USB output.
 
